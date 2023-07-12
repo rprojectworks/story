@@ -1,0 +1,10 @@
+img
+{
+     height:250px;
+     width:250px;
+}
+
+.movie-group
+{
+    display: inline-block;
+}
